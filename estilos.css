@@ -1,6 +1,8 @@
 body
 {
-    color :#333;
+  background: url("dragon.pnj") 10px 10px;  
+  color :#333;
+
     text-align: left;
     font-family: "Arial";
 }
