@@ -12,3 +12,5 @@ Un blog para poder aprender a desplegar todos lo que aprendo.
 * Disponible para todas las edades
 
 Seguire actualizando todo....
+
+Vamos a lograr todo lo que hago.
